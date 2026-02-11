@@ -33,7 +33,7 @@ Snapp does not collect personal data and does not use third-party analytics or t
 
 You can read the full Privacy Policy here:
 
-➡️ **[Privacy Policy](privacy.html)**
+➡️ **[Privacy Policy](privacy)**
 
 ---
 
