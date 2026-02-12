@@ -12,7 +12,7 @@ Snapp works entirely on your device and does not upload your media to any extern
 
 If you have any questions, feedback, or need assistance, please contact us:
 
-📩 Email: support@yourapp.com
+📩 Email: ft.priest@gmail.com
 
 We usually respond within 1–2 business days.
 
